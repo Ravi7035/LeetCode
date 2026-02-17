@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ravi7035/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
