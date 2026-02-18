@@ -12,7 +12,7 @@ class StockSpanner(object):
 
             span+=self.stack.pop()[1] 
 
-        self.stack.append((price,span))
+        self.stack.append([price,span])
 
         return span
         
