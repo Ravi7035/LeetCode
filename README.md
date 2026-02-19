@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0020-valid-parentheses) |
+| [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Ravi7035/LeetCode/tree/master/0901-online-stock-span) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
