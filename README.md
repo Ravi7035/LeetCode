@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Ravi7035/LeetCode/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
+| [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ravi7035/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
