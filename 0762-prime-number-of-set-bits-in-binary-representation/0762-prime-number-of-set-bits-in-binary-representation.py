@@ -5,6 +5,7 @@ class Solution(object):
         :type right: int
         :rtype: int
         """
+        """
         prime_count=0
         def isprime(number):
             count=0
@@ -26,6 +27,24 @@ class Solution(object):
             prime_count+=isprime(count_setbits)
 
         return prime_count
+        """
+
+        #optimization for this.since the range is 10**6 the maximum number of ones upto that range 
+        #are 20 only.so we have to check the primes less than 21.{2,3,5,7,11,13,17,19}
+
+        prime_count=0
+        prime_numbers=[2,3,5,7,11,13,17,19]
+        
+        for number in range(left,right+1):
+            ones=bin(number).count('1')
+            if ones in prime_numbers:
+
+                prime_count+=1
+
+        return prime_count
+            
+
+
 
             
 
