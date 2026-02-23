@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Ravi7035/LeetCode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/Ravi7035/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/Ravi7035/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Ravi7035/LeetCode/tree/master/0455-assign-cookies) |
