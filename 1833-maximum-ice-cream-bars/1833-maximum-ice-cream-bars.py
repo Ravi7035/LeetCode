@@ -32,6 +32,9 @@ class Solution(object):
                 ans+=1
                 coins-=result[i]
 
+            else:
+                break
+
     
         return ans 
 
