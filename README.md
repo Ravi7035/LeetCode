@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0020-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/0761-special-binary-string) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ravi7035/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Ravi7035/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi7035/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi7035/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
@@ -189,6 +192,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ravi7035/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Ravi7035/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi7035/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
@@ -198,6 +202,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
