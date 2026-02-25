@@ -35,6 +35,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ravi7035/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravi7035/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Ravi7035/LeetCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/Ravi7035/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ravi7035/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/Ravi7035/LeetCode/tree/master/0860-lemonade-change) |
@@ -128,6 +129,7 @@
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ravi7035/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi7035/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ravi7035/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -158,6 +160,7 @@
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi7035/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Brainteaser
@@ -184,6 +187,7 @@
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ravi7035/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi7035/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ravi7035/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
@@ -195,4 +199,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
