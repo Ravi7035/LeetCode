@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ravi7035/LeetCode/tree/master/0057-insert-interval) |
 | [0134-gas-station](https://github.com/Ravi7035/LeetCode/tree/master/0134-gas-station) |
@@ -67,6 +68,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
