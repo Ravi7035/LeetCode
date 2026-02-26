@@ -1,5 +1,6 @@
 class Solution(object):
     def smallestNumber(self, pattern):
+        """
         n = len(pattern)
         used = [False] * (n + 2)
         answer = []
@@ -33,3 +34,30 @@ class Solution(object):
 
         backtrack([])
         return answer[0]
+
+        """
+
+        #stack version 
+        res=[]
+        stack=[]
+        num=1
+
+        for char in pattern:
+            stack.append(num)
+            num+=1
+            if char=="I":
+                while stack:
+                    res.append(stack.pop())
+
+        stack.append(num)
+
+        while stack:
+            res.append(stack.pop())
+
+        return "".join(str(digit) for digit in res)
+
+
+        
+
+
+
