@@ -11,6 +11,7 @@
 | [0761-special-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ravi7035/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ravi7035/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ravi7035/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/Ravi7035/LeetCode/tree/master/0901-online-stock-span) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Ravi7035/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ravi7035/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravi7035/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
