@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Ravi7035/LeetCode/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
