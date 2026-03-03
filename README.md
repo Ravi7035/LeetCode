@@ -82,6 +82,7 @@
 | [0077-combinations](https://github.com/Ravi7035/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ravi7035/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ravi7035/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
