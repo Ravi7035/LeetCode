@@ -38,6 +38,7 @@
 | [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Ravi7035/LeetCode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Ravi7035/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ravi7035/LeetCode/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -80,6 +81,7 @@
 | [0040-combination-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ravi7035/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -88,6 +90,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ravi7035/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
