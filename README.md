@@ -59,6 +59,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Ravi7035/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravi7035/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ravi7035/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0146-lru-cache](https://github.com/Ravi7035/LeetCode/tree/master/0146-lru-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ravi7035/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Ravi7035/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravi7035/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +172,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ravi7035/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -199,6 +204,7 @@
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Brainteaser
 |  |
 | ------- |
@@ -254,4 +260,8 @@
 |  |
 | ------- |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
