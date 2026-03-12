@@ -212,6 +212,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi7035/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
@@ -288,6 +289,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
@@ -300,6 +302,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
@@ -312,6 +315,7 @@
 | [0110-balanced-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
