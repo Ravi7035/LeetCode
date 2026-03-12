@@ -7,6 +7,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi7035/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/0761-special-binary-string) |
@@ -97,6 +98,7 @@
 | [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Ravi7035/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -295,6 +297,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ravi7035/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -310,6 +313,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ravi7035/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -325,6 +329,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ravi7035/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
