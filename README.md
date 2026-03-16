@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ravi7035/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Ravi7035/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Ravi7035/LeetCode/tree/master/0326-power-of-three) |
@@ -230,6 +231,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Ravi7035/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ravi7035/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -273,6 +275,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ravi7035/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
