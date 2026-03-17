@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ravi7035/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Ravi7035/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ravi7035/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ravi7035/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ravi7035/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ravi7035/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ravi7035/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Ravi7035/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -322,6 +324,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ravi7035/LeetCode/tree/master/0062-unique-paths) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Tree
 |  |
