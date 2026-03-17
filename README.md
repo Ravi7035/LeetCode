@@ -64,6 +64,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0561-array-partition](https://github.com/Ravi7035/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ravi7035/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0860-lemonade-change](https://github.com/Ravi7035/LeetCode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/Ravi7035/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ravi7035/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -298,6 +299,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ravi7035/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ravi7035/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -309,6 +311,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Combinatorics
 |  |
@@ -347,6 +350,7 @@
 | [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -373,4 +377,8 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
