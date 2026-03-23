@@ -2,28 +2,28 @@ class Solution(object):
     def change(self, amount, coins):
         #memoization method 
         n=len(coins)
-        dp=[[-1]*(amount+1) for _ in range(n)]
-        def solve(index,target):
-            if target==0:
-                return 1
+        dp=[[0]*(amount+1) for _ in range(n)]
 
-            if index <0:
-                return 0
+        #initializing the dp state 
+        for i in range(n):
+            dp[i][0]=1
 
-            if dp[index][target] != -1:
-                return dp[index][target]
+        for t in range(amount+1):
+            if t % coins[0] == 0:
+                dp[0][t] = 1
+            
+        for index in range(1,n):
+            for target in range(amount+1):
 
-            not_take=solve(index-1,target)
+                not_take=dp[index-1][target]
 
-            take=0
+                take=0
 
-            if coins[index] <= target:
+                if coins[index] <= target:
 
-                take=solve(index,target-coins[index])
+                    take=dp[index][target-coins[index]]
 
-            dp[index][target]=not_take+take
+                dp[index][target]=not_take+take
 
-            return dp[index][target]
 
-        return solve(len(coins)-1,amount)
-       
+        return dp[n-1][amount]
