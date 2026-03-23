@@ -79,6 +79,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ravi7035/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ravi7035/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravi7035/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -274,6 +275,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Ravi7035/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Ravi7035/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ravi7035/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Brainteaser
@@ -334,6 +336,7 @@
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ravi7035/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ravi7035/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ravi7035/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
