@@ -2,25 +2,28 @@ class Solution(object):
     def longestPalindromeSubseq(self, s):
         m=len(s)
         dp=[[-1]*m for _ in range(m)]
-        def solve(i,j):
-            if i > j:
-                return 0
 
-            if i==j:
-                return 1
+        #initializing the dp state
 
-            if dp[i][j] !=-1:
-                return dp[i][j]
-            
-            if s[i]==s[j]:
-                
-                dp[i][j]=2+solve(i+1,j-1)
-            else:
-                dp[i][j]=max(solve(i+1,j),solve(i,j-1))
+        for i in range(m):
+            dp[i][i]=1
+        
 
-            return dp[i][j]
+        for length in range(2,m+1):
+            for i in range(m-length+1):
+                j=i+length-1
 
-        return solve(0,m-1)
+                if s[i]==s[j]:
+                    
+                    dp[i][j]=2+dp[i+1][j-1] if length > 2 else 2 
+
+                else:
+
+
+                    dp[i][j]=max(dp[i+1][j],dp[i][j-1])
+
+
+        return dp[0][m-1]
         
 
            
