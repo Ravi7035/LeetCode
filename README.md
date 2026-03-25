@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi7035/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Ravi7035/LeetCode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Ravi7035/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ravi7035/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -267,6 +268,7 @@
 | [0063-unique-paths-ii](https://github.com/Ravi7035/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ravi7035/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ravi7035/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Ravi7035/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
