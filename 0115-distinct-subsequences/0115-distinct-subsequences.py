@@ -1,21 +1,26 @@
 class Solution(object):
     def numDistinct(self, s, t):
         memo={}
-        def dfs(i,j):
-            if j==len(t):
+        m=len(s)
+        n=len(t)
+        def solve(i,j):
+            if j <0:
                 return 1
-            if i==len(s):
+            if i < 0:
                 return 0
             if (i,j) in memo:
                 return memo[(i,j)]
             if s[i]==t[j]:
-                memo[(i,j)]=dfs(i+1,j+1)+dfs(i+1,j)
+                memo[(i,j)]=solve(i-1,j-1)+solve(i-1,j)
                 return memo[(i,j)]
             else:
-                memo[(i,j)]=dfs(i+1,j)
+                memo[(i,j)]=solve(i-1,j)
                 return memo[(i,j)]
 
-        return dfs(0,0)
+        return solve(m-1,n-1)
+
+        #tabulation method
+        
 
 
 
