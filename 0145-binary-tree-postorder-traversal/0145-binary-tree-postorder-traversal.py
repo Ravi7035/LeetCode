@@ -6,12 +6,29 @@
 #         self.right = right
 class Solution(object):
     def postorderTraversal(self, root):
-        output=[]
-        def PostOrder(node):
-            if node is None:
-                return 
-            PostOrder(node.left)
-            PostOrder(node.right)
-            output.append(node.val)
-        PostOrder(root)
-        return output
+
+        stack1=[root]
+        stack2=[]
+
+        if not root:
+            return []
+
+        while stack1:
+            
+            node=stack1.pop()
+            stack2.append(node)
+
+            if node.left:
+                stack1.append(node.left)
+
+            if node.right:
+                stack1.append(node.right)
+
+        result=[]
+        while stack2:
+            result.append(stack2.pop().val)
+
+        return result
+
+
+       
