@@ -493,4 +493,8 @@
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ravi7035/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ravi7035/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ravi7035/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
