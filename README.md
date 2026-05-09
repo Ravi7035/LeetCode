@@ -503,6 +503,7 @@
 | [0176-second-highest-salary](https://github.com/Ravi7035/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Ravi7035/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Ravi7035/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Ravi7035/LeetCode/tree/master/0182-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ravi7035/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Ravi7035/LeetCode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ravi7035/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
