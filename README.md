@@ -106,6 +106,7 @@
 | [1980-find-unique-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravi7035/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ravi7035/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ravi7035/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/Ravi7035/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -372,6 +373,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ravi7035/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ravi7035/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Game Theory
 |  |
