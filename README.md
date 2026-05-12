@@ -67,6 +67,7 @@
 | [0120-triangle](https://github.com/Ravi7035/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravi7035/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ravi7035/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ravi7035/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Ravi7035/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ravi7035/LeetCode/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ravi7035/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi7035/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/Ravi7035/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Ravi7035/LeetCode/tree/master/0146-lru-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ravi7035/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -503,6 +505,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ravi7035/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 ## Enumeration
