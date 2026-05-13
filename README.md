@@ -100,6 +100,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ravi7035/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Ravi7035/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ravi7035/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravi7035/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -207,6 +208,7 @@
 | [0146-lru-cache](https://github.com/Ravi7035/LeetCode/tree/master/0146-lru-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ravi7035/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Ravi7035/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravi7035/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -496,6 +498,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Ravi7035/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ravi7035/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ravi7035/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
