@@ -82,6 +82,7 @@
 | [0213-house-robber-ii](https://github.com/Ravi7035/LeetCode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Ravi7035/LeetCode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/Ravi7035/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Ravi7035/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ravi7035/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -339,6 +340,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ravi7035/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ravi7035/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ravi7035/LeetCode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Ravi7035/LeetCode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ravi7035/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -426,6 +428,7 @@
 | [0063-unique-paths-ii](https://github.com/Ravi7035/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Ravi7035/LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Ravi7035/LeetCode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
