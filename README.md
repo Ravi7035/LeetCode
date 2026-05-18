@@ -105,6 +105,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ravi7035/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ravi7035/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ravi7035/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ravi7035/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -252,6 +253,7 @@
 | [0761-special-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/0761-special-binary-string) |
 | [1029-two-city-scheduling](https://github.com/Ravi7035/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ravi7035/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ravi7035/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ravi7035/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ravi7035/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ravi7035/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -353,6 +355,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ravi7035/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ravi7035/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ravi7035/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ravi7035/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ravi7035/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
