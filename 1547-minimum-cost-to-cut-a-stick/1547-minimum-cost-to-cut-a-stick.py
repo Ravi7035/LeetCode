@@ -9,32 +9,30 @@ class Solution(object):
 
         m = len(cuts)
 
-        dp = [[-1] * m for _ in range(m)]
+        dp = [[0] * m for _ in range(m)]
 
         INT_MAX = 2**31 - 1
 
-        def solve(i, j):
+        for i in range(m-2,0,-1):
+            for j in range(1,m-1):
 
-            if i > j:
-                return 0
+                if i > j:
+                    continue
 
-            if dp[i][j] != -1:
-                return dp[i][j]
+                minimum = INT_MAX
 
-            minimum = INT_MAX
+                for index in range(i, j + 1):
 
-            for index in range(i, j + 1):
+                    cost = (
+                        cuts[j + 1] - cuts[i - 1]
+                        + dp[i][index - 1]
+                        + dp[index + 1][j]
+                    )
 
-                cost = (
-                    cuts[j + 1] - cuts[i - 1]
-                    + solve(i, index - 1)
-                    + solve(index + 1, j)
-                )
+                    minimum = min(minimum, cost)
 
-                minimum = min(minimum, cost)
 
-            dp[i][j] = minimum
+                dp[i][j]=minimum
 
-            return dp[i][j]
 
-        return solve(1, m - 2)
+        return dp[1][m-2]
