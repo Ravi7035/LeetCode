@@ -472,6 +472,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Ravi7035/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Ravi7035/LeetCode/tree/master/0463-island-perimeter) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1306-jump-game-iii](https://github.com/Ravi7035/LeetCode/tree/master/1306-jump-game-iii) |
@@ -501,6 +502,7 @@
 | [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -523,6 +525,7 @@
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Ravi7035/LeetCode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1306-jump-game-iii](https://github.com/Ravi7035/LeetCode/tree/master/1306-jump-game-iii) |
@@ -546,6 +549,7 @@
 | [0257-binary-tree-paths](https://github.com/Ravi7035/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Ravi7035/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Search
 |  |
