@@ -23,14 +23,18 @@ class Solution(object):
             if node.val==descendant.val:
                 return temp[:]
 
-            left=path(node.left,descendant,temp)
+            if node.val > descendant.val:
 
-            if left:
-                return left
-            right=path(node.right,descendant,temp)
+                left=path(node.left,descendant,temp)
 
-            if right:
-                return right
+                if left:
+                    return left
+            else:
+
+                right=path(node.right,descendant,temp)
+
+                if right:
+                    return right
 
             temp.pop()
 
