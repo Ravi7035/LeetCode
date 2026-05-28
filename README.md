@@ -643,6 +643,7 @@
 | [0182-duplicate-emails](https://github.com/Ravi7035/LeetCode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/Ravi7035/LeetCode/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Ravi7035/LeetCode/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/Ravi7035/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Ravi7035/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Ravi7035/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Ravi7035/LeetCode/tree/master/0584-find-customer-referee) |
