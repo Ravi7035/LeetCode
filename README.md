@@ -151,6 +151,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/Ravi7035/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ravi7035/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ravi7035/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravi7035/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ravi7035/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ravi7035/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ravi7035/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -323,6 +324,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/Ravi7035/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ravi7035/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ravi7035/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ravi7035/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
 | ------- |
