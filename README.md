@@ -78,6 +78,7 @@
 | [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Ravi7035/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravi7035/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ravi7035/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0761-special-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
@@ -532,6 +534,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
@@ -600,6 +603,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
@@ -706,6 +710,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ravi7035/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
