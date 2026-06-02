@@ -160,6 +160,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Ravi7035/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ravi7035/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ravi7035/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ravi7035/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ravi7035/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Queue
@@ -244,6 +245,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Ravi7035/LeetCode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ravi7035/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -313,6 +315,7 @@
 | [2784-check-if-array-is-good](https://github.com/Ravi7035/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravi7035/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ravi7035/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -364,6 +367,7 @@
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ravi7035/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -643,6 +647,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [2540-minimum-common-value](https://github.com/Ravi7035/LeetCode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ravi7035/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
