@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ravi7035/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Ravi7035/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ravi7035/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Ravi7035/LeetCode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/Ravi7035/LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ravi7035/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ravi7035/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
