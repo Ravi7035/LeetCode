@@ -112,6 +112,7 @@
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/Ravi7035/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Ravi7035/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ravi7035/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -416,6 +417,7 @@
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ravi7035/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/Ravi7035/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ravi7035/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -499,6 +501,7 @@
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ravi7035/LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Ravi7035/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ravi7035/LeetCode/tree/master/0733-flood-fill) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ravi7035/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -533,6 +536,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Ravi7035/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Ravi7035/LeetCode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ravi7035/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ravi7035/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
