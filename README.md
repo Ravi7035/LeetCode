@@ -87,6 +87,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ravi7035/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ravi7035/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ravi7035/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ravi7035/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ravi7035/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ravi7035/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ravi7035/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -498,6 +499,7 @@
 | [0048-rotate-image](https://github.com/Ravi7035/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Ravi7035/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Ravi7035/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ravi7035/LeetCode/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/Ravi7035/LeetCode/tree/master/0463-island-perimeter) |
@@ -529,6 +531,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Ravi7035/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi7035/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ravi7035/LeetCode/tree/master/0207-course-schedule) |
@@ -602,6 +605,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi7035/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ravi7035/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Ravi7035/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi7035/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -686,6 +690,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ravi7035/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Ravi7035/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ravi7035/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
