@@ -123,6 +123,7 @@
 | [0739-daily-temperatures](https://github.com/Ravi7035/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Ravi7035/LeetCode/tree/master/0860-lemonade-change) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Ravi7035/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ravi7035/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ravi7035/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -506,6 +507,7 @@
 | [0542-01-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ravi7035/LeetCode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ravi7035/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/Ravi7035/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ravi7035/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -547,6 +549,7 @@
 | [0733-flood-fill](https://github.com/Ravi7035/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Ravi7035/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Ravi7035/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Ravi7035/LeetCode/tree/master/1345-jump-game-iv) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi7035/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -625,6 +628,7 @@
 | [0733-flood-fill](https://github.com/Ravi7035/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Ravi7035/LeetCode/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi7035/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -694,6 +698,7 @@
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ravi7035/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Ravi7035/LeetCode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
 | ------- |
