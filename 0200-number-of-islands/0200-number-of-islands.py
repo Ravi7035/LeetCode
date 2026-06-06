@@ -1,24 +1,28 @@
 class Solution(object):
     def numIslands(self, grid):
-        rows, columns = len(grid), len(grid[0])
+        m=len(grid)
+        n=len(grid[0])
+        
 
-        def dfs(r, c):
-            if r < 0 or c < 0 or r >= rows or c >= columns or grid[r][c] == "0":
-                return
-            
-            grid[r][c] = "0"
+        def dfs(row,col):
+            if row < 0 or row >=m or col <0 or col >=n:
+                return 
 
-            dfs(r-1, c)
-            dfs(r, c+1)
-            dfs(r, c-1)
-            dfs(r+1, c)
+            if grid[row][col]=="0":
+                return 
 
-        output = [0]
+            grid[row][col]="0"
 
-        for r in range(rows):
-            for c in range(columns):
-                if grid[r][c] == "1":
-                    output[0] += 1
-                    dfs(r, c)
+            dfs(row+1,col)
+            dfs(row-1,col)
+            dfs(row,col+1)
+            dfs(row,col-1)
 
-        return output[0]
+        output=0
+        for row in range(m):
+            for col in range(n):
+                if grid[row][col]=="1":
+                    output+=1
+                    dfs(row,col)
+
+        return output
