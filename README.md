@@ -69,6 +69,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ravi7035/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Ravi7035/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Ravi7035/LeetCode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -267,6 +268,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ravi7035/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi7035/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
