@@ -261,6 +261,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ravi7035/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ravi7035/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Ravi7035/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ravi7035/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi7035/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Ravi7035/LeetCode/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/Ravi7035/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
