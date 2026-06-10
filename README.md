@@ -178,6 +178,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravi7035/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ravi7035/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ravi7035/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ravi7035/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ravi7035/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Queue
 |  |
@@ -196,6 +197,7 @@
 | [0239-sliding-window-maximum](https://github.com/Ravi7035/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ravi7035/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ravi7035/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -403,6 +405,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravi7035/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ravi7035/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ravi7035/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -800,6 +803,7 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Ravi7035/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
 | ------- |
