@@ -43,6 +43,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ravi7035/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Ravi7035/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ravi7035/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/Ravi7035/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/Ravi7035/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ravi7035/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ravi7035/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/Ravi7035/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Queue
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ravi7035/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ravi7035/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ravi7035/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3838-weighted-word-mapping](https://github.com/Ravi7035/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Game Theory
 |  |
 | ------- |
