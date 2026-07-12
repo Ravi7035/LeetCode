@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/Ravi7035/LeetCode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ravi7035/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ravi7035/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Ravi7035/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ravi7035/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Ravi7035/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Ravi7035/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -86,6 +87,7 @@
 | [0064-minimum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ravi7035/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Ravi7035/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -228,6 +230,7 @@
 | [0046-permutations](https://github.com/Ravi7035/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ravi7035/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Ravi7035/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Ravi7035/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Ravi7035/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Ravi7035/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -566,6 +569,7 @@
 | [0063-unique-paths-ii](https://github.com/Ravi7035/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ravi7035/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ravi7035/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Ravi7035/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Ravi7035/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ravi7035/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Ravi7035/LeetCode/tree/master/0221-maximal-square) |
@@ -679,6 +683,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ravi7035/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Ravi7035/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Ravi7035/LeetCode/tree/master/0100-same-tree) |
