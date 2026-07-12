@@ -626,6 +626,7 @@
 | [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Ravi7035/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Ravi7035/LeetCode/tree/master/1345-jump-game-iv) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi7035/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravi7035/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravi7035/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -671,6 +672,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi7035/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ravi7035/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ravi7035/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -713,6 +715,7 @@
 | [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/Ravi7035/LeetCode/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi7035/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ravi7035/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ravi7035/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -753,6 +756,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/Ravi7035/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi7035/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Ravi7035/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi7035/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
