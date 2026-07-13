@@ -809,6 +809,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ravi7035/LeetCode/tree/master/1291-sequential-digits) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ravi7035/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ravi7035/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravi7035/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
