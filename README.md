@@ -196,6 +196,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ravi7035/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ravi7035/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ravi7035/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -296,6 +297,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravi7035/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ravi7035/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ravi7035/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ravi7035/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ravi7035/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -411,6 +414,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ravi7035/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ravi7035/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ravi7035/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -559,6 +563,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Ravi7035/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ravi7035/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3838-weighted-word-mapping](https://github.com/Ravi7035/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
 | ------- |
@@ -921,4 +926,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ravi7035/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
