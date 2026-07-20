@@ -1,0 +1,17 @@
+class Solution(object):
+    def shiftGrid(self, grid, k):
+        m, n = len(grid), len(grid[0])
+        total = m * n
+        k %= total
+
+        ans = [[0] * n for _ in range(m)]
+
+        for i in range(m):
+            for j in range(n):
+                idx = i * n + j
+                new_idx = (idx + k) % total
+                r = new_idx // n
+                c = new_idx % n
+                ans[r][c] = grid[i][j]
+
+        return ans
