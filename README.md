@@ -142,6 +142,7 @@
 | [1020-number-of-enclaves](https://github.com/Ravi7035/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Ravi7035/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ravi7035/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Ravi7035/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ravi7035/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Ravi7035/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -416,6 +417,7 @@
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ravi7035/LeetCode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Ravi7035/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ravi7035/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -517,6 +519,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ravi7035/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Ravi7035/LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Ravi7035/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Ravi7035/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ravi7035/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ravi7035/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -597,6 +600,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ravi7035/LeetCode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -821,6 +825,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ravi7035/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Ravi7035/LeetCode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -967,4 +972,12 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Ravi7035/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ravi7035/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ravi7035/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Ravi7035/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
