@@ -171,6 +171,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ravi7035/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2105-watering-plants-ii](https://github.com/Ravi7035/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/Ravi7035/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ravi7035/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ravi7035/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -306,6 +307,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ravi7035/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Ravi7035/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Ravi7035/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2105-watering-plants-ii](https://github.com/Ravi7035/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ravi7035/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -601,6 +603,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ravi7035/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ravi7035/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2105-watering-plants-ii](https://github.com/Ravi7035/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ravi7035/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ravi7035/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ravi7035/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
