@@ -40,6 +40,7 @@
 | [1871-jump-game-vii](https://github.com/Ravi7035/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ravi7035/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Ravi7035/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Ravi7035/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Ravi7035/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ravi7035/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ravi7035/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -309,6 +310,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Ravi7035/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2105-watering-plants-ii](https://github.com/Ravi7035/LeetCode/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ravi7035/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Ravi7035/LeetCode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/Ravi7035/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ravi7035/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Ravi7035/LeetCode/tree/master/2540-minimum-common-value) |
